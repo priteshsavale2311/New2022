@@ -7,6 +7,9 @@ public static void main(String [] args){
   
    }
 
+public void mul(int a , int b){
+ System.out.println("Multiplication: "+(a*b));
+}
 
 
 }
